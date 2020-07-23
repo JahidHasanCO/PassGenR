@@ -74,7 +74,7 @@ while True:
     print('The services of PassGenR tool are:')
     print('1.Create a New random password')
     print('2.Create a New custom password')
-    print('2.find your forgotten password')
+    print('3.find your forgotten password')
     print('4.Contact me')
     print('type 99 for Exit ')
     print('Chose your service(1-4)')
@@ -84,7 +84,7 @@ while True:
     # random password session
     if serviceChose == 1:
         print('There are some password typs:')
-        print('1.Easy, \n2.normal, \n3.Strong, \n4.Extra-Strong')
+        print('1.Easy \n2.normal \n3.Strong \n4.Extra-Strong')
         print('Enter Your Password type(1-4): ')
         passwordType = int(input())
         # condition for length of rangom password function parameter
@@ -108,7 +108,7 @@ while True:
     elif serviceChose == 4:
         print('\n')
         print('Thank You for Using this tools')
-        print('This tool create by Jible Einux')
+        print('This tool create by Jibble Einux')
         print('Follow me:')
         print('----------------------------------------------------')
         print("Github: https://github.com/JibbleEinuxCODE ")
