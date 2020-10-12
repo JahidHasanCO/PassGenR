@@ -119,3 +119,4 @@ while True:
 # Thanks every one
 # Jibble Einux
 # www.facebook.com/JibbleEinuxCODE
+# Contract me: vdjsovaj@gmail.com
